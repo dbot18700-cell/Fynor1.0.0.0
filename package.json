@@ -1,5 +1,5 @@
 {
-  "name": "prime-music",
+  "name": "Fynor",
   "version": "1.4",
   "description": "Advanced Lavalink Music Bot",
   "main": "index.js",
@@ -19,6 +19,6 @@
   "scripts": {
     "start": "node index.js"
   },
-  "author": "GlaceYT",
+  "author": "kamado_tanjiro090",
   "license": "MIT License"
 }
