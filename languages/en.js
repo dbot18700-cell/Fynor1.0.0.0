@@ -102,8 +102,8 @@ module.exports = {
                 noDescription: "No description available."
             },
             footer: {
-                version: "**Version 1.4** • Prime Music Bot",
-                developer: "Developed by GlaceYT / https://GlaceYT.com"
+                version: "**Version 1.4** • Fynor",
+                developer: "Developed by tanjiro_kamado090"
             },
             buttons: {
                 backToMain: "🏠 Back to Main Menu",
